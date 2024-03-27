@@ -1,9 +1,9 @@
-##:rocket: Hey! this reene
-##:book: Technology stack 
+## :rocket: Hey! this reene
+## :book: Technology stack 
      - `ReactJS`
      - `VueJS`
      - `SpringCloud`
      - `Mysql`
      - `DevOps`
-##:mailbox: Contact
+## :mailbox: Contact
  - <a target="_blank" href="mailto:reene44444@gmail.com">E-mail</a>
