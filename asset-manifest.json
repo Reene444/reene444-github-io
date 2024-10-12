@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/reene444-github-io/static/css/main.f855e6bc.css",
-    "main.js": "/reene444-github-io/static/js/main.c4775f0c.js",
-    "static/js/453.60f49e1f.chunk.js": "/reene444-github-io/static/js/453.60f49e1f.chunk.js",
-    "static/media/logo.svg": "/reene444-github-io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/reene444-github-io/static/css/main.389f253c.css",
+    "main.js": "/reene444-github-io/static/js/main.793a63be.js",
     "index.html": "/reene444-github-io/index.html",
-    "main.f855e6bc.css.map": "/reene444-github-io/static/css/main.f855e6bc.css.map",
-    "main.c4775f0c.js.map": "/reene444-github-io/static/js/main.c4775f0c.js.map",
-    "453.60f49e1f.chunk.js.map": "/reene444-github-io/static/js/453.60f49e1f.chunk.js.map"
+    "main.389f253c.css.map": "/reene444-github-io/static/css/main.389f253c.css.map",
+    "main.793a63be.js.map": "/reene444-github-io/static/js/main.793a63be.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c4775f0c.js"
+    "static/css/main.389f253c.css",
+    "static/js/main.793a63be.js"
   ]
 }
