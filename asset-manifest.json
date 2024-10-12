@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/reene444-github-io/static/css/main.389f253c.css",
-    "main.js": "/reene444-github-io/static/js/main.793a63be.js",
-    "index.html": "/reene444-github-io/index.html",
-    "main.389f253c.css.map": "/reene444-github-io/static/css/main.389f253c.css.map",
-    "main.793a63be.js.map": "/reene444-github-io/static/js/main.793a63be.js.map"
+    "main.css": "/io/static/css/main.389f253c.css",
+    "main.js": "/io/static/js/main.793a63be.js",
+    "index.html": "/io/index.html",
+    "main.389f253c.css.map": "/io/static/css/main.389f253c.css.map",
+    "main.793a63be.js.map": "/io/static/js/main.793a63be.js.map"
   },
   "entrypoints": [
     "static/css/main.389f253c.css",
